@@ -1,0 +1,19 @@
+{
+  "name": "library_information_system",
+  "version": "1.0.0",
+  "description": "The is the Library information system config file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karanvas1994/Library_Information_System.git"
+  },
+  "author": "Karan Vashist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karanvas1994/Library_Information_System/issues"
+  },
+  "homepage": "https://github.com/Karanvas1994/Library_Information_System#readme"
+}
